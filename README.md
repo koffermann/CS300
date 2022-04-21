@@ -13,9 +13,9 @@
 <br>
 <br>
 <b><i> How has your work on this project expanded your approach to designing software and developing programs? </b></i>
-<br>
+<br> Before this class, I did not think much about how data structures can affect the speed of a program. Speed may not consequential when starting out as a new programmer, but everyone has been on the other end of a software or application that lagged so badly that it essentially ruined the experience of the system. In future software development courses--and later on when I find a career path in software development--I will think about the different data structures and how they play a key role in a program running smoothly.
 <br>
 <br>
 <b><i> How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable? </b></i>
-<br>
+<br> Honestly, before this project I never reused codes. I simply wrote what was needed for an assignment and saved it in a folder. After this project, though, I learned that writing maintainable, readable, and adaptable code can be a lifesaver for programmers. It was fascinating to see how the source code we used through the assignments offered to much flexibility in terms of changing a data structure yet still performing the same tasks.
 <br>
